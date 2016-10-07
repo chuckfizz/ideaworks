@@ -1,2 +1,2 @@
 # ideaworks
-Ideas andwork in progress segments -  a starting point
+Ideas and work in progress segments -  a starting point
